@@ -1,0 +1,9 @@
+.backgroundElement{
+    width: 1200px;
+    height: 800px;
+    resize: both;
+    overflow: auto;
+
+    background-image: url("../images/books.jpg");
+    background-repeat: round;
+} 
