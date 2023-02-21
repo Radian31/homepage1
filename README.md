@@ -10,3 +10,5 @@ At the top is the navigation that takes you to the topic of the page. If you lik
 There is also something for sports fans. You will find out what disciplines I support and you will also read about their stars.
 
 At the very end, you can change the background color of the entire page using the button.
+
+![screen](images/button.gif)
