@@ -11,4 +11,4 @@ There is also something for sports fans. You will find out what disciplines I su
 
 At the very end, you can change the background color of the entire page using the button.
 
-![screen](images/button.gif)
+![kliknij przycisk](images/button.gif)
